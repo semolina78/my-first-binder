@@ -1,2 +1,1 @@
-requirements.txt
 numpy==1.14.5
